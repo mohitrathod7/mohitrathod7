@@ -1,15 +1,15 @@
 <h1 align="center">Hello, I'm Mohit Rathod</h1>
 <h2 align="center">I ❤️ Python</h2>
-<br>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
 
-## 🧐 About
-- 🌱 I’m currently learning **Flask(Python) and Fullstack Web Development*
-- 📫 Reach me at **mohit9820380945@gmail.com** or Ping me on **Instagram: https://instagram.com/mohit_rathod_07**
-- 👀 Things I know : <i> Python, HTML, CSS & JS </i>
-- 😍 I ❤️ Investing, playing Badminton, cycling and reading Biographies of great people.
-- 🌙 Fun fact: NASA's Perseverance Rover carries my name 👽 could know about me.
+## 🧐 About Me
+- I’m currently learning **Flask(Python) and Fullstack Web Development*
+- Reach me at **mohit9820380945@gmail.com** or Ping me on **Instagram: https://instagram.com/mohit_rathod_07**
+- Things I know : <i> Python, HTML, CSS & JS </i>
+- I ❤️ Investing, playing Badminton, cycling and reading Biographies of great people.
+- Fun fact : NASA's Perseverance Rover carries my name 👽 could know about me.
+
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
