@@ -5,7 +5,7 @@
 
 ## 🧐 About Me
 - I’m currently learning **Flask(Python) and Fullstack Web Development*
-- Reach me at **mohit9820380945@gmail.com** or Ping me on **Instagram: https://instagram.com/mohit_rathod_07**
+- Reach me at **<a href="mailto:mohit9820380945@gmail.com" target="blank">Mail</a>** or Ping me on **<a href="https://www.instagram.com/mohit_rathod_07/" target="blank">Instagram</a>**
 - Things I know : <i> Python, HTML, CSS & JS </i>
 - I ❤️ Investing, playing Badminton, cycling and reading Biographies of great people.
 - Fun fact : NASA's Perseverance Rover carries my name 👽 could know about me.
