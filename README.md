@@ -39,10 +39,10 @@
 
 ### Languages I have worked with -
 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansu-Yadav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrathod7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
-![Devansu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitrathod7&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitrathod7&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
 
 
 <p align="center"> 
