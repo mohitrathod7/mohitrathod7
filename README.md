@@ -1,9 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Mohit Rathod</h1>
+<h1 align="center">Hello, I'm Mohit Rathod</h1>
 <h2 align="center">I ❤️ Python</h2>
 <br>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"/>
-<br><br>
 
 ## 🧐 About
 - 🌱 I’m currently learning **Flask(Python) and Fullstack Web Development*
@@ -43,8 +42,10 @@
 ### Languages I have worked with -
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrathod7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+
 ![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitrathod7&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
+
+<br><br>
 
 <p align="center">Visitor count<br><img src="https://profile-counter.glitch.me/mohitrathod7/count.svg"/></p>
 
